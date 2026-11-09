@@ -61,7 +61,7 @@
         "wk:page":"Murtiya"
     },
     "wof:country":"NP",
-    "wof:geomhash":"9bfd7697e7be9d5624f9de7dc788b225",
+    "wof:geomhash":"4d9602c551a83a95d25659489400a8ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     85.48628000000002,
     27.00005
 ],
-  "geometry": {"coordinates":[85.48628000000002,27.00005],"type":"Point"}
+  "geometry": {"coordinates":[85.48628,27.00005],"type":"Point"}
 }

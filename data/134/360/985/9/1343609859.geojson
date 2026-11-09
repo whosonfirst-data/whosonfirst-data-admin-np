@@ -70,7 +70,7 @@
         "wk:page":"Jalkanya"
     },
     "wof:country":"NP",
-    "wof:geomhash":"911ef6f568a9aa7fba7ec1872b8eae6a",
+    "wof:geomhash":"7bf0a01f952df3ab46e479af9a4cae34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     85.94476999999998,
     27.30652000000001
 ],
-  "geometry": {"coordinates":[85.94476999999998,27.30652000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.94477,27.30652],"type":"Point"}
 }

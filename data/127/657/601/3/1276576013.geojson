@@ -64,7 +64,7 @@
         "wk:page":"Gothichaur"
     },
     "wof:country":"NP",
-    "wof:geomhash":"a5ad9b37f1302c0489070308479a3246",
+    "wof:geomhash":"9d6d57646f176191017092be24ddc1b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     82.28943000000002,
     29.23398
 ],
-  "geometry": {"coordinates":[82.28943000000002,29.23398],"type":"Point"}
+  "geometry": {"coordinates":[82.28943,29.23398],"type":"Point"}
 }

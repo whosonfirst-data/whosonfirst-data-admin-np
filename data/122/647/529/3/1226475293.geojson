@@ -58,7 +58,7 @@
         "wk:page":"Rupsa"
     },
     "wof:country":"NP",
-    "wof:geomhash":"30138bbbb9883c5511ee2256e8c20344",
+    "wof:geomhash":"ba32519e506f43bdbee3b871fd0e5314",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     81.54869000000002,
     29.23127
 ],
-  "geometry": {"coordinates":[81.54869000000002,29.23127],"type":"Point"}
+  "geometry": {"coordinates":[81.54869,29.23127],"type":"Point"}
 }

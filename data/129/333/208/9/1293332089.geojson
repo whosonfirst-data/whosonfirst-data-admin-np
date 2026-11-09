@@ -70,7 +70,7 @@
         "wk:page":"Archalbot"
     },
     "wof:country":"NP",
-    "wof:geomhash":"86759cecbfe93f62ee043c324e417673",
+    "wof:geomhash":"0893c45506aad25d931d35ee3a8fdfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     84.45371999999998,
     28.15925
 ],
-  "geometry": {"coordinates":[84.45371999999998,28.15925],"type":"Point"}
+  "geometry": {"coordinates":[84.45372,28.15925],"type":"Point"}
 }

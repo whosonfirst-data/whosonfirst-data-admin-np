@@ -58,7 +58,7 @@
         "wk:page":"Haripur%2C_Janakpur"
     },
     "wof:country":"NP",
-    "wof:geomhash":"733ca231635259828fec1351698ef9c9",
+    "wof:geomhash":"cc0bbcc6a9a9475a5648a2586a69ac6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     85.57739000000002,
     27.02423
 ],
-  "geometry": {"coordinates":[85.57739000000002,27.02423],"type":"Point"}
+  "geometry": {"coordinates":[85.57739,27.02423],"type":"Point"}
 }

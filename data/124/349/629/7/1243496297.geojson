@@ -58,7 +58,7 @@
         "wk:page":"Mahuwa%2C_Janakpur"
     },
     "wof:country":"NP",
-    "wof:geomhash":"a1b3cc94020b6f5bdcf042589ff78756",
+    "wof:geomhash":"338f5d4a754b7497e398332cd38e4a02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     85.96224000000002,
     26.7234
 ],
-  "geometry": {"coordinates":[85.96224000000002,26.7234],"type":"Point"}
+  "geometry": {"coordinates":[85.96224,26.7234],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Hajminiya"
     },
     "wof:country":"NP",
-    "wof:geomhash":"448e727e112e255ed8791ab43a0bc933",
+    "wof:geomhash":"52edc3339b1f8edcd5a45b28fecdb6f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     85.28329000000002,
     26.84034
 ],
-  "geometry": {"coordinates":[85.28329000000002,26.84034],"type":"Point"}
+  "geometry": {"coordinates":[85.28329,26.84034],"type":"Point"}
 }

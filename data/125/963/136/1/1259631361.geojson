@@ -61,7 +61,7 @@
         "wk:page":"Jorsale"
     },
     "wof:country":"NP",
-    "wof:geomhash":"617033fb6ed7732458636f86758bd7fa",
+    "wof:geomhash":"e69f3c6af7811ecfa072dce68562d166",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     86.72480999999998,
     27.78048
 ],
-  "geometry": {"coordinates":[86.72480999999998,27.78048],"type":"Point"}
+  "geometry": {"coordinates":[86.72481,27.78048],"type":"Point"}
 }

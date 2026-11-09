@@ -121,7 +121,7 @@
         "wk:page":"Kailali_District"
     },
     "wof:country":"NP",
-    "wof:geomhash":"040c6d46e7b18eaee983e3d4b93cec7e",
+    "wof:geomhash":"61a19ea0ba66c20ddfee97a93800e095",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,5 +154,5 @@
     80.79500999999998,
     28.57103
 ],
-  "geometry": {"coordinates":[80.79500999999998,28.57103],"type":"Point"}
+  "geometry": {"coordinates":[80.79501,28.57103],"type":"Point"}
 }

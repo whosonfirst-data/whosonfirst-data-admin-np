@@ -64,7 +64,7 @@
         "wk:page":"Thulo_Pakhar"
     },
     "wof:country":"NP",
-    "wof:geomhash":"d6e022cf9394e8287de3f60e6059e742",
+    "wof:geomhash":"b403eb6dac30e15fd2f3c0fe5452faf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     85.87459,
     27.71764000000001
 ],
-  "geometry": {"coordinates":[85.87459,27.71764000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.87459,27.71764],"type":"Point"}
 }

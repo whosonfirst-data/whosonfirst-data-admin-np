@@ -73,7 +73,7 @@
         "wk:page":"Janaki_Mandir"
     },
     "wof:country":"NP",
-    "wof:geomhash":"185430feb83af8af623c05c7e9cd21b9",
+    "wof:geomhash":"7c5be5ea4c4a04abfb9e41a8f55e4f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,5 +106,5 @@
     85.93092,
     26.73107000000001
 ],
-  "geometry": {"coordinates":[85.93092,26.73107000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.93092,26.73107],"type":"Point"}
 }

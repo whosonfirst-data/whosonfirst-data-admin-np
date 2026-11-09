@@ -46,7 +46,7 @@
         "wk:page":"Simara%2C_Nepal"
     },
     "wof:country":"NP",
-    "wof:geomhash":"ae6783beee8d0267c21d965867c39a75",
+    "wof:geomhash":"d1aeed17c3d42a5a40c4fabaaf9e9177",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     85.48848000000002,
     26.82218
 ],
-  "geometry": {"coordinates":[85.48848000000002,26.82218],"type":"Point"}
+  "geometry": {"coordinates":[85.48848,26.82218],"type":"Point"}
 }

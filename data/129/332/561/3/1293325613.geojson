@@ -52,7 +52,7 @@
         "wk:page":"Majh_Khanda"
     },
     "wof:country":"NP",
-    "wof:geomhash":"6a583e95a6f73424f8e75da06b376ed5",
+    "wof:geomhash":"1a5e9ab2f03c12404a1d10e0bfbfee43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     81.90489000000002,
     28.4251
 ],
-  "geometry": {"coordinates":[81.90489000000002,28.4251],"type":"Point"}
+  "geometry": {"coordinates":[81.90489,28.4251],"type":"Point"}
 }

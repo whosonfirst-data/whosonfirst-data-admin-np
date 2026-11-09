@@ -95,7 +95,7 @@
         "wk:page":"Ghorahi"
     },
     "wof:country":"NP",
-    "wof:geomhash":"aeb8fb45246bc21002511bce55ff923c",
+    "wof:geomhash":"7b0ae43d9d8b0eecc35dbc87c2bf349c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,5 +128,5 @@
     82.48789000000002,
     28.04595
 ],
-  "geometry": {"coordinates":[82.48789000000002,28.04595],"type":"Point"}
+  "geometry": {"coordinates":[82.48789,28.04595],"type":"Point"}
 }

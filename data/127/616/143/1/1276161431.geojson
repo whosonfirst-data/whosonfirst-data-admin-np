@@ -70,7 +70,7 @@
         "wk:page":"Majhuwa%2C_Sindhuli"
     },
     "wof:country":"NP",
-    "wof:geomhash":"696541566aab26e6f264af75bd037b19",
+    "wof:geomhash":"0ac9ab54248cef83d241b967b0865065",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     85.94214000000002,
     27.33161
 ],
-  "geometry": {"coordinates":[85.94214000000002,27.33161],"type":"Point"}
+  "geometry": {"coordinates":[85.94214,27.33161],"type":"Point"}
 }

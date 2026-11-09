@@ -79,7 +79,7 @@
         "wk:page":"Dunai%2C_Nepal"
     },
     "wof:country":"NP",
-    "wof:geomhash":"d5b22bc33c4132109ce459ae1917cf5d",
+    "wof:geomhash":"e47eda2d6401a14d67450318f81cf902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,5 +112,5 @@
     82.89889000000002,
     28.93667
 ],
-  "geometry": {"coordinates":[82.89889000000002,28.93667],"type":"Point"}
+  "geometry": {"coordinates":[82.89889,28.93667],"type":"Point"}
 }

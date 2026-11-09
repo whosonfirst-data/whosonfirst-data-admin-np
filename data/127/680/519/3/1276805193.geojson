@@ -46,7 +46,7 @@
         "wk:page":"Gaindakot"
     },
     "wof:country":"NP",
-    "wof:geomhash":"079e3ccb9185c978572b730de39ef120",
+    "wof:geomhash":"a1875a0d756bdd0ffd038319dd6a8293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     84.4128,
     27.70817000000001
 ],
-  "geometry": {"coordinates":[84.4128,27.70817000000001],"type":"Point"}
+  "geometry": {"coordinates":[84.4128,27.70817],"type":"Point"}
 }

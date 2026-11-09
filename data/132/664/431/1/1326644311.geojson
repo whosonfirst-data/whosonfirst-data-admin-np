@@ -64,7 +64,7 @@
         "wk:page":"Gopalpur%2C_Nepal"
     },
     "wof:country":"NP",
-    "wof:geomhash":"12d82522ab0aadc03a76a55ec036e0ce",
+    "wof:geomhash":"050b1702324fd21b720796e96fc4ea2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     86.12447,
     27.18762000000001
 ],
-  "geometry": {"coordinates":[86.12447,27.18762000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.12447,27.18762],"type":"Point"}
 }

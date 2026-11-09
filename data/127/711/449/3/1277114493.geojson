@@ -55,7 +55,7 @@
         "wk:page":"Dhodalekhani"
     },
     "wof:country":"NP",
-    "wof:geomhash":"f8dc14d5f9ddf51c9e8665d76c17db91",
+    "wof:geomhash":"8b5fc1249d744f68c007932b5487a072",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     86.99233000000002,
     27.08778
 ],
-  "geometry": {"coordinates":[86.99233000000002,27.08778],"type":"Point"}
+  "geometry": {"coordinates":[86.99233,27.08778],"type":"Point"}
 }

@@ -58,7 +58,7 @@
         "wk:page":"Kalimati_Rampur"
     },
     "wof:country":"NP",
-    "wof:geomhash":"23c9bcb844f31410a521d38b2a20089a",
+    "wof:geomhash":"1792240451c932ceb8962f0f155c035d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     82.54739000000002,
     28.00526
 ],
-  "geometry": {"coordinates":[82.54739000000002,28.00526],"type":"Point"}
+  "geometry": {"coordinates":[82.54739,28.00526],"type":"Point"}
 }

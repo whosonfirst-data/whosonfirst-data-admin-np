@@ -46,7 +46,7 @@
         "wk:page":"Rimuwa"
     },
     "wof:country":"NP",
-    "wof:geomhash":"c190e9757d2bad8a5e2e37f0be0044ae",
+    "wof:geomhash":"026f6a6bbffc8c8e2c00e4f6183cc541",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     83.44524,
     28.00359000000001
 ],
-  "geometry": {"coordinates":[83.44524,28.00359000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.44524,28.00359],"type":"Point"}
 }

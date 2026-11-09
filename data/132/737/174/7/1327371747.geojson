@@ -64,7 +64,7 @@
         "wk:page":"Madhubangoth"
     },
     "wof:country":"NP",
-    "wof:geomhash":"881178189aef38eb45cbb94dea8ad129",
+    "wof:geomhash":"916a3e1f06c7fbf0c1db26d1b83f016a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     85.45241,
     26.80652000000001
 ],
-  "geometry": {"coordinates":[85.45241,26.80652000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.45241,26.80652],"type":"Point"}
 }

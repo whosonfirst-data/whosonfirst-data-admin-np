@@ -61,7 +61,7 @@
         "wk:page":"Kolati_Bhumlu"
     },
     "wof:country":"NP",
-    "wof:geomhash":"3457ee233768e939dc898cd33c7461cd",
+    "wof:geomhash":"9c5b0086c7f378f7d3b68416df0f3778",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     85.74479000000002,
     27.59751
 ],
-  "geometry": {"coordinates":[85.74479000000002,27.59751],"type":"Point"}
+  "geometry": {"coordinates":[85.74479,27.59751],"type":"Point"}
 }

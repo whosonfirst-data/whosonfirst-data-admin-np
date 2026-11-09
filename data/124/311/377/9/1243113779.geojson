@@ -61,7 +61,7 @@
         "wk:page":"Bandi_Pokhara"
     },
     "wof:country":"NP",
-    "wof:geomhash":"167d65c3ef8ff3c6428494eb2b82d0a6",
+    "wof:geomhash":"63d6652ee6c28c44d4797324f534ffd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     83.51059000000002,
     27.86624
 ],
-  "geometry": {"coordinates":[83.51059000000002,27.86624],"type":"Point"}
+  "geometry": {"coordinates":[83.51059,27.86624],"type":"Point"}
 }

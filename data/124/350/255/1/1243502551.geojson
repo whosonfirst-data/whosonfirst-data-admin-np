@@ -50,7 +50,7 @@
         "wk:page":"Ghuseni"
     },
     "wof:country":"NP",
-    "wof:geomhash":"cf1e02004078e4e2682cb8b95aac9c12",
+    "wof:geomhash":"3bff38224231a4d9926895fb25b59ddb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     87.79753000000002,
     26.92297
 ],
-  "geometry": {"coordinates":[87.79753000000002,26.92297],"type":"Point"}
+  "geometry": {"coordinates":[87.79753,26.92297],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Dolphu"
     },
     "wof:country":"NP",
-    "wof:geomhash":"d283f9c8c1ce257afd039e5d425e02c2",
+    "wof:geomhash":"617618ca3d0c5744473c10815135c626",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     82.53560999999998,
     29.57919
 ],
-  "geometry": {"coordinates":[82.53560999999998,29.57919],"type":"Point"}
+  "geometry": {"coordinates":[82.53561,29.57919],"type":"Point"}
 }

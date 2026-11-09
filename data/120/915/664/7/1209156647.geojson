@@ -41,7 +41,7 @@
         "gn:id":7968054
     },
     "wof:country":"NP",
-    "wof:geomhash":"9d5147191bb330338b9e33bcf5432488",
+    "wof:geomhash":"26d108ceaa1558c2dbf361b70bf447fa",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -64,5 +64,5 @@
     85.12964000000002,
     27.59203
 ],
-  "geometry": {"coordinates":[85.12964000000002,27.59203],"type":"Point"}
+  "geometry": {"coordinates":[85.12964,27.59203],"type":"Point"}
 }

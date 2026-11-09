@@ -45,7 +45,7 @@
         "gn:id":7989438
     },
     "wof:country":"NP",
-    "wof:geomhash":"affe9a67bb57f884705fee3c31385fd7",
+    "wof:geomhash":"c0205f30e22f5ee954b53186bbf8d633",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     82.26505999999998,
     28.28187
 ],
-  "geometry": {"coordinates":[82.26505999999998,28.28187],"type":"Point"}
+  "geometry": {"coordinates":[82.26506,28.28187],"type":"Point"}
 }

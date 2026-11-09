@@ -55,7 +55,7 @@
         "wk:page":"Baikunthe"
     },
     "wof:country":"NP",
-    "wof:geomhash":"a016ac4d1d0adab75c84921710a14463",
+    "wof:geomhash":"19272f7ddd6805ff3a4fb7297564c5ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     85.76489000000002,
     27.90416
 ],
-  "geometry": {"coordinates":[85.76489000000002,27.90416],"type":"Point"}
+  "geometry": {"coordinates":[85.76489,27.90416],"type":"Point"}
 }

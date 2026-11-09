@@ -61,7 +61,7 @@
         "wk:page":"Koilabas"
     },
     "wof:country":"NP",
-    "wof:geomhash":"94a18a3f4f19ab6b6bfd459c5d1179b4",
+    "wof:geomhash":"f756cacfde21607a611ad20a16d78f18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     82.52559000000002,
     27.69462
 ],
-  "geometry": {"coordinates":[82.52559000000002,27.69462],"type":"Point"}
+  "geometry": {"coordinates":[82.52559,27.69462],"type":"Point"}
 }

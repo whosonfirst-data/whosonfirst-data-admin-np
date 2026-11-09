@@ -49,7 +49,7 @@
         "wk:page":"Syangja"
     },
     "wof:country":"NP",
-    "wof:geomhash":"f111ce71478b19e5c749f3e0b16d7d87",
+    "wof:geomhash":"44e8ff634b850c53bef57acd11594f54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     83.87243000000002,
     28.09596
 ],
-  "geometry": {"coordinates":[83.87243000000002,28.09596],"type":"Point"}
+  "geometry": {"coordinates":[83.87243,28.09596],"type":"Point"}
 }

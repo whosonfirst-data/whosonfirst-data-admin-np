@@ -58,7 +58,7 @@
         "wk:page":"Bhote_Namlang"
     },
     "wof:country":"NP",
-    "wof:geomhash":"752bc43aed8548f7fadf1878536da859",
+    "wof:geomhash":"4ee35bfa736f6d6f7605f2a234c8e6ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     85.65803000000002,
     27.88766
 ],
-  "geometry": {"coordinates":[85.65803000000002,27.88766],"type":"Point"}
+  "geometry": {"coordinates":[85.65803,27.88766],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Balara%2C_Nepal"
     },
     "wof:country":"NP",
-    "wof:geomhash":"4fbfa42eba74e558625106c290db7d28",
+    "wof:geomhash":"4a5cd715f5384034b2a56f5115e217c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     85.38103000000002,
     26.77902000000001
 ],
-  "geometry": {"coordinates":[85.38103000000002,26.77902000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.38103,26.77902],"type":"Point"}
 }

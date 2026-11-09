@@ -55,7 +55,7 @@
         "wk:page":"Jibjibe"
     },
     "wof:country":"NP",
-    "wof:geomhash":"75cd8e1e41fdd5150146d203bd3ebf3f",
+    "wof:geomhash":"c3f2719e3f95118df2acc3c8e037bdab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     85.22849000000002,
     27.99596
 ],
-  "geometry": {"coordinates":[85.22849000000002,27.99596],"type":"Point"}
+  "geometry": {"coordinates":[85.22849,27.99596],"type":"Point"}
 }

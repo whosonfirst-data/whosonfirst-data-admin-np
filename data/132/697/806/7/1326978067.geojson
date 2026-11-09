@@ -52,7 +52,7 @@
         "wk:page":"Pipari"
     },
     "wof:country":"NP",
-    "wof:geomhash":"fb1343f2f82e544753f1a240832c8b77",
+    "wof:geomhash":"b62a900be110492420fb489b6609e385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     83.11907,
     27.46502000000001
 ],
-  "geometry": {"coordinates":[83.11906999999999,27.46502000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.11907,27.46502],"type":"Point"}
 }

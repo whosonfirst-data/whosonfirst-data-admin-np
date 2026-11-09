@@ -61,7 +61,7 @@
         "wk:page":"Sakraula"
     },
     "wof:country":"NP",
-    "wof:geomhash":"596e35b430eb1a651b21b212e91a6712",
+    "wof:geomhash":"3c5488d95c9ed8b3e8bf933a9d0b32d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     85.49618000000002,
     26.84121
 ],
-  "geometry": {"coordinates":[85.49618000000002,26.84121],"type":"Point"}
+  "geometry": {"coordinates":[85.49618,26.84121],"type":"Point"}
 }

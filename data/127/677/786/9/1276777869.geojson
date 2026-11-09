@@ -62,7 +62,7 @@
         "wk:page":"Ridikot"
     },
     "wof:country":"NP",
-    "wof:geomhash":"cef4ceedd71a9bd94f03fe03e191752e",
+    "wof:geomhash":"ea34e56979ed22a370cd849633f1d1b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,5 +95,5 @@
     81.22516999999998,
     29.21399000000001
 ],
-  "geometry": {"coordinates":[81.22516999999998,29.21399000000001],"type":"Point"}
+  "geometry": {"coordinates":[81.22517,29.21399],"type":"Point"}
 }

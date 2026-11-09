@@ -55,7 +55,7 @@
         "wk:page":"Katuwa_Chaupari"
     },
     "wof:country":"NP",
-    "wof:geomhash":"011863ce800df8f66242511136176f11",
+    "wof:geomhash":"1d896f9aa4853fe807198d261c3ed287",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     83.68798000000002,
     28.20816
 ],
-  "geometry": {"coordinates":[83.68798000000002,28.20816],"type":"Point"}
+  "geometry": {"coordinates":[83.68798,28.20816],"type":"Point"}
 }

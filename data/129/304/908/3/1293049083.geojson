@@ -70,7 +70,7 @@
         "wk:page":"Rajgadh"
     },
     "wof:country":"NP",
-    "wof:geomhash":"41b23c8b5458d9f52f89cd61c60c1247",
+    "wof:geomhash":"4b0b50bb8cb2c0717807a768a611059f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     87.94003000000002,
     26.51121
 ],
-  "geometry": {"coordinates":[87.94003000000002,26.51121],"type":"Point"}
+  "geometry": {"coordinates":[87.94003,26.51121],"type":"Point"}
 }

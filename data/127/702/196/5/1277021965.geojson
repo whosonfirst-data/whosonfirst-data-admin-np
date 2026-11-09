@@ -46,7 +46,7 @@
         "wk:page":"Khairwa"
     },
     "wof:country":"NP",
-    "wof:geomhash":"1d210d01ce1c4a3e18c7d18a93fc4cad",
+    "wof:geomhash":"f60c687d39d70d3f3cae299ebe8d5ee7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     85.36903000000002,
     26.83408
 ],
-  "geometry": {"coordinates":[85.36903000000002,26.83408],"type":"Point"}
+  "geometry": {"coordinates":[85.36903,26.83408],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Dumariya"
     },
     "wof:country":"NP",
-    "wof:geomhash":"4f4a536a0e4accc26e039785a67b2556",
+    "wof:geomhash":"3b0c55f96b7b42bdda4f53dabb0f8627",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     85.40373000000002,
     26.81879
 ],
-  "geometry": {"coordinates":[85.40373000000002,26.81879],"type":"Point"}
+  "geometry": {"coordinates":[85.40373,26.81879],"type":"Point"}
 }

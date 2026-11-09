@@ -55,7 +55,7 @@
         "wk:page":"Karaputar"
     },
     "wof:country":"NP",
-    "wof:geomhash":"07bf68ee2225a759bb8373c1ab474788",
+    "wof:geomhash":"06fc3d82ec68bb146e3f61771bd801f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     84.22946999999998,
     28.16222
 ],
-  "geometry": {"coordinates":[84.22946999999998,28.16222],"type":"Point"}
+  "geometry": {"coordinates":[84.22947,28.16222],"type":"Point"}
 }

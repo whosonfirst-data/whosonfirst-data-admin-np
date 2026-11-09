@@ -70,7 +70,7 @@
         "wk:page":"Lalbandi"
     },
     "wof:country":"NP",
-    "wof:geomhash":"f4e3faa6da8e2eb465ca2e29740a6a6c",
+    "wof:geomhash":"098477a202620dd734f9876c5c4cee6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     85.63913000000002,
     27.05541
 ],
-  "geometry": {"coordinates":[85.63913000000002,27.05541],"type":"Point"}
+  "geometry": {"coordinates":[85.63913,27.05541],"type":"Point"}
 }

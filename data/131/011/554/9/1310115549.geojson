@@ -67,7 +67,7 @@
         "wk:page":"Chaturale"
     },
     "wof:country":"NP",
-    "wof:geomhash":"b66dab8f69712b001480aef265709b48",
+    "wof:geomhash":"87cfd01ac3566501a13c9984c72fab3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     85.21963000000002,
     27.86029000000001
 ],
-  "geometry": {"coordinates":[85.21963000000002,27.86029000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.21963,27.86029],"type":"Point"}
 }

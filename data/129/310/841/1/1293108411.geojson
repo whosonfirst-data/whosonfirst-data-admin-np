@@ -61,7 +61,7 @@
         "wk:page":"Naubise"
     },
     "wof:country":"NP",
-    "wof:geomhash":"2eeae69d02f19c3390da9a2ee48bef56",
+    "wof:geomhash":"5e8c58465e775e9c387379a2a6d66959",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     85.14513000000002,
     27.69812
 ],
-  "geometry": {"coordinates":[85.14513000000002,27.69812],"type":"Point"}
+  "geometry": {"coordinates":[85.14513,27.69812],"type":"Point"}
 }

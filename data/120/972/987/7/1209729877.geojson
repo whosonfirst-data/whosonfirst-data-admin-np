@@ -52,7 +52,7 @@
         "wk:page":"Nagarjun_Municipality"
     },
     "wof:country":"NP",
-    "wof:geomhash":"5549edd2e3477739608cd8ed05d21ef7",
+    "wof:geomhash":"23b814ab404d50db58b876b5c6ef0a3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     85.26944,
     27.74889000000001
 ],
-  "geometry": {"coordinates":[85.26944,27.74889000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.26944,27.74889],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Amritganj"
     },
     "wof:country":"NP",
-    "wof:geomhash":"ea0f3619ab14f9c9fe3fa6ea7d90f741",
+    "wof:geomhash":"4d6ecd9e10ff2c4a0ba8c173b1558675",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     85.12066,
     26.89229000000001
 ],
-  "geometry": {"coordinates":[85.12066,26.89229000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.12066,26.89229],"type":"Point"}
 }

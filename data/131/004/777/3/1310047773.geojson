@@ -64,7 +64,7 @@
         "wk:page":"Briddhim"
     },
     "wof:country":"NP",
-    "wof:geomhash":"6688996209d7755f97ed89de499bd4d3",
+    "wof:geomhash":"3576826cbcfd3b99bd39c44689849c4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     85.37104000000002,
     28.20118
 ],
-  "geometry": {"coordinates":[85.37104000000002,28.20118],"type":"Point"}
+  "geometry": {"coordinates":[85.37104,28.20118],"type":"Point"}
 }

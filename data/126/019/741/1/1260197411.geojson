@@ -66,7 +66,7 @@
         "wk:page":"Bahrabise"
     },
     "wof:country":"NP",
-    "wof:geomhash":"c367538f2c3c529c4ac9fcc4bc2baf79",
+    "wof:geomhash":"58c22bc511d9c86a06f57e4b7927cf36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -99,5 +99,5 @@
     85.89858000000002,
     27.78873
 ],
-  "geometry": {"coordinates":[85.89858000000002,27.78873],"type":"Point"}
+  "geometry": {"coordinates":[85.89858,27.78873],"type":"Point"}
 }

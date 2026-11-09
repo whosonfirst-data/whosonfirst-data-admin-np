@@ -64,7 +64,7 @@
         "wk:page":"Manakot"
     },
     "wof:country":"NP",
-    "wof:geomhash":"bcb614ec37d293e704658dff4f72693d",
+    "wof:geomhash":"f31585919cd38f62f7649b8a5108c48e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     81.38793000000003,
     29.47654
 ],
-  "geometry": {"coordinates":[81.38793000000003,29.47654],"type":"Point"}
+  "geometry": {"coordinates":[81.38793,29.47654],"type":"Point"}
 }

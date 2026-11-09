@@ -78,7 +78,7 @@
         "wk:page":"Mangalsen"
     },
     "wof:country":"NP",
-    "wof:geomhash":"45ce59664f506eaf71d2b3499a57151d",
+    "wof:geomhash":"b89029d84a67b9ac063a012832962986",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -101,5 +101,5 @@
     81.25908000000003,
     29.14256
 ],
-  "geometry": {"coordinates":[81.25908000000003,29.14256],"type":"Point"}
+  "geometry": {"coordinates":[81.25908,29.14256],"type":"Point"}
 }

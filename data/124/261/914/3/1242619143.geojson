@@ -64,7 +64,7 @@
         "wk:page":"Pokhari_Bhanjyang"
     },
     "wof:country":"NP",
-    "wof:geomhash":"d92435dbddf7e0a144d8a69150e5678b",
+    "wof:geomhash":"1ee58921b0af59f94a872286a3fee04b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     84.29243000000002,
     27.96321
 ],
-  "geometry": {"coordinates":[84.29243000000002,27.96321],"type":"Point"}
+  "geometry": {"coordinates":[84.29243,27.96321],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Ramkot%2C_Nepal"
     },
     "wof:country":"NP",
-    "wof:geomhash":"bc13b5d5c049809c0778e2456217695b",
+    "wof:geomhash":"0a3435000b10537a7e8fbd94a41a3dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     85.25596999999998,
     27.72299000000001
 ],
-  "geometry": {"coordinates":[85.25596999999998,27.72299000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.25597,27.72299],"type":"Point"}
 }
