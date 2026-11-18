@@ -95,12 +95,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Gamka"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u52a0\u59c6\u5361\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7518\u5361\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -132,7 +126,7 @@
         }
     ],
     "wof:id":1193165305,
-    "wof:lastmodified":1636494936,
+    "wof:lastmodified":1794999722,
     "wof:name":"Gamka",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",
