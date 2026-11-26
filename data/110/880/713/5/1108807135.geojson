@@ -11,7 +11,7 @@
     "geom:longitude":80.937549,
     "iso:country":"NP",
     "label:eng_x_preferred_longname":[
-        "Province No. 7"
+        "Sudurpashchim Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -22,15 +22,34 @@
     "lbl:latitude":29.488416,
     "lbl:longitude":80.924421,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q25104019"
+        },
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q25104019"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
-        "Seven"
+        "Sudurpashchim"
+    ],
+    "name:eng_x_variant":[
+        "Sudurpashchim Province",
+        "Province No. 7"
     ],
     "name:fra_x_preferred":[
         "Sudurpashchim"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0926\u0942\u0930\u092a\u0936\u094d\u091a\u093f\u092e \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -56,7 +75,8 @@
     "wof:concordances":{
         "fips:code":"NP-SE",
         "hasc:id":"NP.SE",
-        "iso:code":"NP-P7"
+        "iso:code":"NP-P7",
+        "wd:id":"Q25104019"
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"NP",
@@ -76,8 +96,8 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1695884284,
-    "wof:name":"Province No. 7",
+    "wof:lastmodified":1795728685,
+    "wof:name":"Sudurpashchim",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

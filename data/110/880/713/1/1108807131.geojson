@@ -11,7 +11,7 @@
     "geom:longitude":82.512735,
     "iso:country":"NP",
     "label:eng_x_preferred_longname":[
-        "Province No. 5"
+        "Lumbini Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -22,6 +22,18 @@
     "lbl:latitude":28.07216,
     "lbl:longitude":82.742907,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q25104014"
+        },
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q25104014"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
@@ -33,7 +45,11 @@
         "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u096b"
     ],
     "name:eng_x_preferred":[
-        "Five"
+        "Lumbini"
+    ],
+    "name:eng_x_variant":[
+        "Lumbini Province",
+        "Province No. 5"
     ],
     "name:fra_x_preferred":[
         "Lumbini"
@@ -48,6 +64,9 @@
         "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u096b"
     ],
     "name:nep_x_preferred":[
+        "\u0932\u0941\u092e\u094d\u092c\u093f\u0928\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:nep_x_variant":[
         "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u096b"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +96,8 @@
     "wof:concordances":{
         "fips:code":"NP-FI",
         "hasc:id":"NP.FI",
-        "iso:code":"NP-P5"
+        "iso:code":"NP-P5",
+        "wd:id":"Q25104014"
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"NP",
@@ -97,8 +117,8 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1695884284,
-    "wof:name":"Province No. 5",
+    "wof:lastmodified":1795728685,
+    "wof:name":"Lumbini",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
