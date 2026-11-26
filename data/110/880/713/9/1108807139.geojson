@@ -11,7 +11,7 @@
     "geom:longitude":87.272343,
     "iso:country":"NP",
     "label:eng_x_preferred_longname":[
-        "Province No. 1"
+        "Koshi Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -22,12 +22,28 @@
     "lbl:latitude":27.224073,
     "lbl:longitude":87.291339,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q25104008"
+        },
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q25104008"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
-        "One"
+        "Koshi"
+    ],
+    "name:eng_x_variant":[
+        "Koshi Province",
+        "Province No. 1"
     ],
     "name:fra_x_preferred":[
         "Province No. 1"
@@ -42,6 +58,9 @@
         "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0967"
     ],
     "name:nep_x_preferred":[
+        "\u0915\u094b\u0936\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
+    ],
+    "name:nep_x_variant":[
         "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0967"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +90,8 @@
     "wof:concordances":{
         "fips:code":"NP-ON",
         "hasc:id":"NP.ON",
-        "iso:code":"NP-P1"
+        "iso:code":"NP-P1",
+        "wd:id":"Q25104008"
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"NP",
@@ -91,8 +111,8 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1695884284,
-    "wof:name":"Province No. 1",
+    "wof:lastmodified":1795728685,
+    "wof:name":"Koshi",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
     "wof:placetype_local":"province",

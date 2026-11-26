@@ -11,7 +11,7 @@
     "geom:longitude":84.039539,
     "iso:country":"NP",
     "label:eng_x_preferred_longname":[
-        "Province No. 4"
+        "Gandaki Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
@@ -22,15 +22,34 @@
     "lbl:latitude":28.415519,
     "lbl:longitude":84.022322,
     "lbl:min_zoom":8.0,
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q25104016"
+        },
+        {
+            "citation":"Wikidata, the item of this province: English and Nepali labels and item id, read on 2026-11-26. Each provincial assembly adopted its province's name between 2018 and 2023.",
+            "property":"wof:concordances",
+            "url":"https://www.wikidata.org/wiki/Q25104016"
+        }
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
-        "Four"
+        "Gandaki"
+    ],
+    "name:eng_x_variant":[
+        "Gandaki Province",
+        "Province No. 4"
     ],
     "name:fra_x_preferred":[
         "Gandaki"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0923\u094d\u0921\u0915\u0940 \u092a\u094d\u0930\u0926\u0947\u0936"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -56,7 +75,8 @@
     "wof:concordances":{
         "fips:code":"NP-FO",
         "hasc:id":"NP.FO",
-        "iso:code":"NP-P4"
+        "iso:code":"NP-P4",
+        "wd:id":"Q25104016"
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"NP",
@@ -76,8 +96,8 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1695884284,
-    "wof:name":"Province No. 4",
+    "wof:lastmodified":1795728685,
+    "wof:name":"Gandaki",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
